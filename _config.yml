@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Tam Mach
 email: tam.mach@outlook.com
-repository: "sayboras/tammach.github.io"
+repository: "sayboras/sayboras.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -62,9 +62,10 @@ author:
   name: "Tam Mach"
   avatar: "https://avatars0.githubusercontent.com/u/9019229?s=460&u=62b183b5842761b21b07f730efdf78cbaf0ff3d5&v=4"
   bio: "A software engineer who would like to learn one or two new things daily. Currently, I am learning golang and networking."
+  location: "Melbourne, Australia"
   links:
     - label: "Stackoverflow"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/8763847/sayboras"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -78,7 +79,7 @@ author:
 footer:
   links:
     - label: "Stackoverflow"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/8763847/sayboras"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
