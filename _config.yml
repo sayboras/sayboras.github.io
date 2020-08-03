@@ -17,9 +17,8 @@ title: Tam Mach
 email: tam.mach@outlook.com
 repository: "sayboras/sayboras.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A software engineer who would like to learn one or two new things daily.
+  Currently, I am learning golang and networking. Try to broaden my knowledge on system programming space.
 twitter_username: sayboras
 github_username: sayboras
 minimal_mistakes_skin: default
